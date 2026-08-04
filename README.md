@@ -1,2 +1,2 @@
 # git-from-zero
-Learning git commands.
+Learning git and github commands.
