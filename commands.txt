@@ -1,2 +1,3 @@
 Start a new repo: git init
 Add untracked file or unstaged changes: git add <file>
+Choose which parts of a file to stage: git add -p
