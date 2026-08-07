@@ -6,3 +6,5 @@ Unstage one file: git reset <file>
 Check what you added: git status
 Clone an existing repo:
 git clone <url>
+Add all untracked files and unstaged changes:
+git add .
