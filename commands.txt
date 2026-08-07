@@ -4,3 +4,5 @@ Choose which parts of a file to stage: git add -p
 Delete file: git rm <file>
 Unstage one file: git reset <file>
 Check what you added: git status
+Clone an existing repo:
+git clone <url>
