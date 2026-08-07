@@ -12,3 +12,5 @@ Move file:
 git mv <old> <new>
 Tell Git to forget about a file without deleting it:
 git rm --cached <file>
+Tell Git to forget about a file without deleting it:
+git rm --cached <file>
