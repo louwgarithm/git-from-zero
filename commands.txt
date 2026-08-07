@@ -8,3 +8,5 @@ Clone an existing repo:
 git clone <url>
 Add all untracked files and unstaged changes:
 git add .
+Move file:
+git mv <old> <new>
