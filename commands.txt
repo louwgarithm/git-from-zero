@@ -4,13 +4,10 @@ Choose which parts of a file to stage: git add -p
 Delete file: git rm <file>
 Unstage one file: git reset <file>
 Check what you added: git status
-Clone an existing repo:
-git clone <url>
-Add all untracked files and unstaged changes:
-git add .
-Move file:
-git mv <old> <new>
-Tell Git to forget about a file without deleting it:
-git rm --cached <file>
-Unstage everything:
-git reset
+Clone an existing repo: git clone <url>
+Add all untracked files and unstaged changes: git add .
+Move file: git mv <old> <new>
+Tell Git to forget about a file without deleting it: git rm --cached <file>
+Unstage everything: git reset
+
+Make a commit (and open text editor to write message): git commit
