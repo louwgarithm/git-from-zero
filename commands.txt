@@ -15,3 +15,4 @@ Commit all unstaged changes: git commit -am 'message'
 Make a commit: git commit -m 'message'
 
 Switch branches: git switch <name> or git checkout <name>
+List branches: git branch
