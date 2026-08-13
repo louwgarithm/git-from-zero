@@ -20,3 +20,5 @@ Delete a branch: git branch -d <name>
 Create a branch: git switch -c <name> or git checkout -b <name>
 List branches by most recently committed to: git branch --sort=-committerdat
 Force delete a branch: git branch -D <name>
+
+Diff all staged and unstaged changes: git diff HEAD
