@@ -26,3 +26,4 @@ Diff just unstaged changes: git diff
 Diff just staged changes: git diff --staged
 
 Show diff between a commit and its parent: git show <commit>
+Diff one file since a commit: git diff <commit> <file>
