@@ -30,4 +30,4 @@ Diff one file since a commit: git diff <commit> <file>
 Diff two commits: git diff <commit> <commit>
 Show a summary of a diff: git diff <commit> --stat / git show <commit> --stat
 
-Delete unstaged changes to one file: git restore <file>
+Delete unstaged changes to one file: git restore <file> / git checkout <file>
