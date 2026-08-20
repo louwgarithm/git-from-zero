@@ -34,3 +34,4 @@ Delete unstaged changes to one file: git restore <file> / git checkout <file>
 Delete all staged and unstaged changes: git reset --hard
 'Stash' all staged and unstaged changes: git stash
 Delete all staged and unstaged changes to one file: git restore --staged --worktree <file> / git checkout HEAD <file>
+Delete untracked files: git clean
