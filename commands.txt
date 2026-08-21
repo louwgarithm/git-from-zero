@@ -36,3 +36,4 @@ Delete all staged and unstaged changes: git reset --hard
 Delete all staged and unstaged changes to one file: git restore --staged --worktree <file> / git checkout HEAD <file>
 Delete untracked files: git clean
 "Undo" the most recent commit (keep your working directory the same): git reset HEAD^
+Undo a failed rebase: git reflog BRANCHNAME
