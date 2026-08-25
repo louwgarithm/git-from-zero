@@ -38,3 +38,4 @@ Delete untracked files: git clean
 "Undo" the most recent commit (keep your working directory the same): git reset HEAD^
 Undo a failed rebase: git reflog BRANCHNAME
 Then manually find the right commit ID in the reflog, then run: git reset --hard <commit>
+Look at a branch's history: git log main
