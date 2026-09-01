@@ -44,3 +44,5 @@ Look at a branch's history: git log main / git log --graph main / git log --onel
 Show every commit that modified a file, including before it was renamed: git log --follow <file>
 Show who last changed each line of a file: git blame <file>
 Show every commit that modified a file: git log <file>
+Find every commit that added or removed some text:
+git log -G banana
