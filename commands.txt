@@ -47,4 +47,4 @@ Show every commit that modified a file: git log <file>
 Find every commit that added or removed some text:
 git log -G banana
 
-Combine with rebase: git switch banana
+Combine with rebase: git switch banana / git rebase main
